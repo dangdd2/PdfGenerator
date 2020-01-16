@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfGenerator", "PdfGenerator\PdfGenerator.csproj", "{C350D25F-869A-407A-901C-5DFCD560EAB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C350D25F-869A-407A-901C-5DFCD560EAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C350D25F-869A-407A-901C-5DFCD560EAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C350D25F-869A-407A-901C-5DFCD560EAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C350D25F-869A-407A-901C-5DFCD560EAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B073E91B-699B-44C9-B53D-1BE7EF64BCCB}
+	EndGlobalSection
+EndGlobal
